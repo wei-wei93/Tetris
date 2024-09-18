@@ -3,5 +3,5 @@
 ### Author: Wei Wei
 
 ## GamePlay: 
-https://github.com/user-attachments/assets/a4e90fa9-4bd2-4fb3-8e30-3b56a125e3e4
+https://github.com/user-attachments/assets/bae70540-3891-4478-87a0-928366864123
 
